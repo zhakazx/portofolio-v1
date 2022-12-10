@@ -9,6 +9,6 @@
         @vite('resources/css/app.css')
     </head>
     <body class="bg-base-200">
-        
+        @include('layouts.navbar')
     </body>
 </html>
